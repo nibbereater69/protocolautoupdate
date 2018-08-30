@@ -21,7 +21,7 @@ function SA() -- credits to kilookuoma for the Silent Aimbot
 gg.setRanges(gg.REGION_CODE_APP)
 gg.searchNumber('3', gg.TYPE_FLOAT)
 gg.getResults(39)
-gg.editAll(500, gg.TYPE_FLOAT)
+gg.editAll(150, gg.TYPE_FLOAT)
 gg.toast('Silent Aimbot On!')
 gg.clearResults()
 START()
